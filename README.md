@@ -1,1 +1,1 @@
-# machine_learing_earthquake_prediction
+# Covid survival prediction
